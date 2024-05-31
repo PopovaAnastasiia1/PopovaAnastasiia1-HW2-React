@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Жіноча вишиванка 'Сумщина'",
+      "price": 3790,
+      "image": "https://images.prom.ua/5005527066_w640_h640_5005527066.jpg",
+      "article": "rj100",
+      "color": "Бежевий"
+    },
+    {
+        "id": 2,
+        "name": "Жіноча вишиванка 'Перемога'",
+        "price": 1100,
+        "image": "https://images.prom.ua/4529531779_w640_h640_4529531779.jpg",
+        "article": "rj720",
+        "color": "Хакі"
+      },
+      {
+        "id": 3,
+        "name": "Жіноча вишиванка 'Лада'",
+        "price": 1560,
+        "image": "https://images.prom.ua/5574140508_w640_h640_5574140508.jpg",
+        "article": "rj547",
+        "color": "Синій"
+      },
+      {
+        "id": 4,
+        "name": "Жіноча вишиванка 'Даніела'",
+        "price": 1320,
+        "image": "https://images.prom.ua/5522162743_w640_h640_5522162743.jpg",
+        "article": "rj812",
+        "color": "Білий"
+      },
+      {
+        "id": 5,
+        "name": "Жіноча вишиванка 'Петриківська'",
+        "price": 1420,
+        "image": "https://images.prom.ua/5521622110_w640_h640_5521622110.jpg",
+        "article": "rj477",
+        "color": "Червоний"
+      },
+      {
+        "id": 6,
+        "name": "Жіноча вишиванка 'Подільська'",
+        "price": 1250,
+        "image": "https://images.prom.ua/5522227560_w640_h640_5522227560.jpg",
+        "article": "rj302",
+        "color": "Чорний"
+      },
+      {
+        "id": 7,
+        "name": "Жіноча вишиванка 'Папороть'",
+        "price": 1020,
+        "image": "https://images.prom.ua/5526328467_w640_h640_5526328467.jpg",
+        "article": "rj239",
+        "color": "Жовтий"
+      },
+      {
+        "id": 8,
+        "name": "Чоловіча вишиванка 'Перемога'",
+        "price": 1100,
+        "image": "https://images.prom.ua/4529560371_w640_h640_4529560371.jpg",
+        "article": "lm837",
+        "color": "Хакі"
+      },
+      {
+        "id": 9,
+        "name": "Чоловіча вишиванка 'Любомир'",
+        "price": 1200,
+        "image": "https://images.prom.ua/5235212072_w640_h640_5235212072.jpg",
+        "article": "lm551",
+        "color": "Бежевий"
+      },
+      {
+        "id": 10,
+        "name": "Чоловіча вишиванка 'Гордій'",
+        "price": 1500,
+        "image": "https://images.prom.ua/5526286559_w640_h640_5526286559.jpg",
+        "article": "lm626",
+        "color": "Голубий"
+      },
+      {
+        "id": 11,
+        "name": "Чоловіча вишиванка 'Макар'",
+        "price": 1500,
+        "image": "https://images.prom.ua/5526311970_w640_h640_5526311970.jpg",
+        "article": "lm270",
+        "color": "Білий"
+      },
+      {
+        "id": 12,
+        "name": "Чоловіча вишиванка 'Подільська'",
+        "price": 1100,
+        "image": "https://images.prom.ua/5521942917_w640_h640_5521942917.jpg",
+        "article": "lm698",
+        "color": "Червоний"
+      }
+]
